@@ -1,6 +1,7 @@
 ### Plano de Trabalho de 8 Semanas para o Desenvolvimento de um Site Completo para uma Empresa de Software
 
 **Objetivo:** Desenvolver um site que mostre os projetos, prêmios, equipe e facilite a geração de vendas para a empresa de software.
+**Reuniões* Serão feitas presencialmente durante o 2º dia de aula da turma na Codi Academy.
 
 #### Semana 1: Planejamento e Requisitos
 
